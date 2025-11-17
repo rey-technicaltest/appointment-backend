@@ -31,9 +31,11 @@ create db on your mysql with name "user-appointment"
 
 npm install
 
-npm run migrate
-
 cp .env.example .env
+
+edit .env using your mysql
+
+npm run migrate
 
 npm run dev
 ```
