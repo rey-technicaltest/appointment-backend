@@ -38,4 +38,4 @@ cp .env.example .env
 npm run dev
 ```
 
-postman doc : https://web.postman.co/workspace/My-Workspace~5c784048-6d03-4d0c-82c1-52bcbc68284f/collection/5752230-a505a818-863a-4d22-a215-f082abe097a4?action=share&source=copy-link&creator=5752230
+postman doc : https://web.postman.co/workspace/My-Workspace~5c784048-6d03-4d0c-82c1-52bcbc68284f/collection/5752230-0c19809f-d56a-4213-88a5-aa8802b7511a?action=share&source=copy-link&creator=5752230
